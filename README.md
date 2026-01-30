@@ -1,4 +1,4 @@
-Backend (Node.js + NestJS)
+Backend (Fastify)
 
 
 Database (PostgreSQL)
